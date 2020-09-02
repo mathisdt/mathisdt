@@ -1,10 +1,4 @@
-<div style="text-align:right">
-<div style="display:inline-block">
-
-![Mathis's Github Stats](https://github-readme-stats.vercel.app/api?username=mathisdt&show_icons=true)  
-
-</div>
-<div style="display:inline-block">
+<img style="float:right" align="center" src="https://github-readme-stats.vercel.app/api?username=mathisdt&show_icons=true">
 
 # Hi, I'm Mathis :wave:
 
@@ -14,6 +8,3 @@ I'm a software engineer who is passionate about helping people with technology o
 - <a href="https://zephyrsoft.org">my website</a>
 - <a href="https://www.xing.com/profile/Mathis_DirksenThedens">Xing</a>
 - <a href="https://www.linkedin.com/in/mathisdt/">LinkedIn</a>
-
-</div>
-</div>
