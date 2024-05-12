@@ -1,6 +1,6 @@
 # Hi, I'm Mathis :wave:
 
-I'm a software engineer who is passionate about helping people with technology or even eliminating the need to deal with technology (did I hear automation?). I like to use Java - especially in combination with the Spring ecosystem - but Python or shell scripts are also fine.
+I'm a software engineer who is passionate about helping people with technology or even eliminating the need to deal with technology (did I hear automation?). I like to use Java (especially in combination with the Spring ecosystem), Python, or shell scripting. Back in the days I also used Ruby, and I even wrote some perl code for my FHEM home automation.
 
 ## Other places to find me:
 <a href="https://zephyrsoft.org">my website</a> | <a href="https://www.xing.com/profile/Mathis_DirksenThedens">Xing</a> | <a href="https://www.linkedin.com/in/mathisdt/">LinkedIn</a>
