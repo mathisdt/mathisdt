@@ -6,4 +6,4 @@ I'm a software engineer who is passionate about helping people with technology o
 <a href="https://zephyrsoft.org">my website</a> | <a href="https://www.xing.com/profile/Mathis_DirksenThedens">Xing</a> | <a href="https://www.linkedin.com/in/mathisdt/">LinkedIn</a>
 
 ### If you want, you can support me here:
-<a href="https://github.com/sponsors/mathisdt">Github Sponsors</a> | <a href="https://patreon.com/MathisDT">Patreon</a> | <a href="https://liberapay.com/MathisDT">Liberapay</a> | <a href="https://paypal.me/MathisDT">Paypal</a>
+<a href="https://liberapay.com/MathisDT">Liberapay</a> | <a href="https://paypal.me/MathisDT">Paypal</a>
