@@ -2,9 +2,9 @@
 
 I'm a software engineer who is passionate about helping people with technology or even eliminating the need to deal with technology (did I hear automation?). I like to use Java (especially in combination with the Spring ecosystem), Python, or shell scripting. Back in the days I also used Ruby, and I even wrote some perl code for my FHEM home automation (which was migrated to Home Assistant some time ago).
 
-## Github is mirror-only now, see Codeberg for the real action!
+## See Codeberg for the real action!
 
-**All of my active projects are migrated to [Codeberg](https://codeberg.org/mathisdt)**, and that's also where issues and pull requests are looked at. The Github projects are currently only a mirror of the code from Codeberg, and I won't check for issues and PRs here. Be aware that the Github projects can vanish at any point in time.
+**All of my active projects are migrated to [Codeberg](https://codeberg.org/mathisdt)**, and that's also where issues and pull requests are looked at. The Github projects were mirrors of the Codeberg projects for some time, but now they are shut down.
 
 There are a number of reasons why I don't want to use Github anymore:
 
